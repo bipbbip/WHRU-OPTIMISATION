@@ -1,0 +1,11 @@
+material,thermal_conductivity_W_mK, temp_change, roughness_m 
+carbon_steel, 52.0, -0.03, 0.000045   
+ss304, 12.1, 0.014, 0.000015        
+ss316, 13.4, 0.010, 0.000015         
+aluminum, 237.0, -0.01, 0.000001    
+copper, 401.0, -0.12, 0.0000015     
+inconel600, 14.9, 0.015, 0.000015   
+titanium, 7.5, 0.01, 0.000005        
+cast_iron, 52.0, -0.05, 0.00026     
+concrete, 1.15, -0.0008, 0.000300   
+alumina_95, 30.0, -0.02, 0.000002  

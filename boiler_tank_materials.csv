@@ -1,0 +1,11 @@
+material,C_sf
+carbon_steel, 0.014
+ss304, 0.012
+ss316, 0.013
+aluminum, 0.008
+copper, 0.006
+inconel600, 0.012
+titanium, 0.010
+cast_iron, 0.014
+concrete, 0.03
+alumina_95, 0.01
